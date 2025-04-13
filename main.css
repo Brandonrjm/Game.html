@@ -1,0 +1,53 @@
+/* Style for the whole body */
+body {
+    background-color: Light blue;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for the navigation menu */
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+
+/* Style for the footer */
+footer {
+    text-align: center;
+    margin-right: 200px;
+    background-color: lightgray;
+}
+
+/* Style for the header */
+header {
+    text-align: center;
+    font-size: 24px;
+    background-color: lightgray;
+}
+
+/* Style for the meme image */
+#memeImage {
+    margin-right: 200px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/* Style for paragraph text */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Style for main heading */
+h1 {
+    font-size: 36px;
+    color: darkred;
+    text-shadow: 2px 2px 5px gray;
+}
